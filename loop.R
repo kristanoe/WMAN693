@@ -13,3 +13,11 @@ mean(i)
 
 
 ## added line of code 
+
+
+##more code changes ... test to stage/update repository
+
+#new vector 
+
+test <- c(3,7,9)
+test
